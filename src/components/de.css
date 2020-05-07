@@ -1,0 +1,25 @@
+svg{
+   overflow: visible;
+   height:90vmin;
+   width:100%;
+   align-items:center;
+   margin-top:70px;
+   margin-left:100px;
+
+}
+
+
+   
+   
+    
+.tooltip{
+       opacity:1;
+    }
+.x-axis{
+     color:  #ff073a;
+  }
+  
+.y-axis{
+     color:#ff073a;
+  }
+   
